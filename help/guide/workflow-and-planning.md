@@ -1,27 +1,27 @@
 ---
-title: 工作流程與規劃 — 簡化並加速工作
-description: 對於在內容製作與完成的規劃流程中，努力連線並追蹤其內容需求的公司。 缺乏有效的流程、計畫、核准及跨專案的資料一致性，導致該公司內容供應鏈的生產力和效率遭到搶劫。
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Creative Cloud, Workfront
-feature: Workflow, Asset Management, Asset Processing, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
-topic: Content Management, Collaboration
+title: 工作流程和規劃教學課程
+description: 在整個內容生命週期中建立簡化且透明的工作流程。  加速稽核及核准程式。  自動化手動工作流程。
+solution: Experience Cloud, Workfront, Creative Cloud
+feature-set: Creative Cloud, Workfront
+feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
+topic: Content Management, Collaboration, Artificial Intelligence
 role: Admin, User, Leader, Developer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: ac328c68438276c1c7b0a6ea66ef9e86d73fed5f
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '446'
 ht-degree: 8%
 
 ---
 
 
-# 工作流程與規劃：簡化並加速工作
+# 工作流程和規劃教學課程
 
-此範本適用於從規劃、生產到完工，努力連線並追蹤其內容需求的公司。 由於缺乏有效的流程、計畫、核准及跨專案的資料一致性，因此該公司內容供應鏈的生產力和效率都遭到搶劫。
+在整個內容生命週期中建立簡化且透明的工作流程。  加速稽核及核准程式。  自動化手動工作流程。
 
-用於規劃和工作流程的Adobe解決方案：
+用於工作流程和規劃的Adobe解決方案：
 
 <table>
     <tr style="border: 0;">
@@ -33,19 +33,12 @@ ht-degree: 8%
         <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
         <strong>Frame.io</strong>
       </td>
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/aem-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>AEM Assets</strong>
-      </td>
     </tr>
 </table>
 
-## 主要業務使用案例
-
-* 簡化工作流程和核准
-* 最佳化支出和資源
-* 實現更大的容量、專案、風險和時間表可視性
-* 自動化下遊程式，例如中繼資料標籤
+>[!TIP]
+>
+>我們的Adobe產品專家團隊已針對關鍵內容供應鏈使用案例收集了一組整合教學課程。 如果您使用多個解決方案，請瞭解整合它們的最佳方式！  檢視 [內容供應鏈整合教學課程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## 建議的課程
 
