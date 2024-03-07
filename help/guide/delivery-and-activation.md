@@ -1,48 +1,55 @@
 ---
-title: 傳遞與啟用 — 提供強大的體驗與效能
-description: 適用於需要支援的公司，在正確的頻道中，將正確的內容呈現給正確的個人。 「內容供應鏈」讓這種連線比任何其他解決方案都更好，同時提供分析以確保整體內容效能。
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites, Journey Optimizer, Creative Cloud
-feature: Asset Management, Asset Processing, Collaboration, Share, Performance Monitoring, Personalization, Channels Activity, Gen AI
-topic: Content Management, Collaboration, Personalization
+title: 傳遞與啟用教學課程
+description: 提供內容與行銷活動的強大體驗與效能。  快速啟動資產並提升內容效能
+solution: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo, Target
+feature-set: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo Engage, Target
+topic: Content Management, Collaboration, Personalization, Artificial Intelligence
 role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14157
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: fecc107042220664ce5b76584f834a025844ef4b
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '610'
 ht-degree: 1%
 
 ---
 
 
-# 交付與啟用：電源體驗與效能
+# 傳遞與啟用教學課程
 
-適用於需要支援的公司，在正確的頻道中，將正確的內容呈現給正確的個人。 「內容供應鏈」讓這種連線比任何其他解決方案都更好，同時提供分析以確保整體內容效能。
-
-## 主要業務使用案例
-
-* 輕鬆尋找及重複使用資產
-* 快速建立並發佈高影響力的體驗
-* 立即產生和測試副本
-* 跨頻道部署相關的個人化體驗
+提供內容與行銷活動的強大體驗與效能。  快速啟動資產並提升內容效能
 
 用於內容啟用與分析的Adobe解決方案：
-
 
 <table>
     <tr style="border: 0;">
       <td style="vertical-align: middle">
-        <p style="margin: 0"><img alt="Experience Manager Assets" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height:42px;"></p>
-        <strong>Experience Manager Assets</strong>
-      </td>
-      <td style="vertical-align: middle">
         <p style="margin: 0"><img alt="Experience Manager Sites" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
         <strong>Experience Manager Sites</strong>
       </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Adobe Campaign" src="/help/assets/ac-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Adobe Campaign</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Journey Optimizer" src="/help/assets/ajo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Journey Optimizer</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Marketo" src="/help/assets/marketo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Marketo</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="目標" src="/help/assets/target-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Target</strong>
+      </td>
     </tr>
 </table>
+
+>[!TIP]
+>
+>我們的Adobe產品專家團隊已針對關鍵內容供應鏈使用案例收集了一組整合教學課程。 如果您使用多個解決方案，請瞭解整合它們的最佳方式！  檢視 [內容供應鏈整合教學課程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## 教學課程
 
