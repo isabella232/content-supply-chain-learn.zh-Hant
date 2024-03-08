@@ -1,18 +1,18 @@
 ---
-user-guide-title: Adobe內容供應鏈教學課程
+user-guide-title: Adobe內容供應鏈Tutorials
 breadcrumb-title: 內容供應鏈教學課程
-user-guide-desription: View Experience League tutorials on Adobe Content supply chain, the simplified promise of Adobe’s solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer.
-source-git-commit: fb7ae72b84c093627e79ddd171f703619410b637
+user-guide-desription: View Experience League tutorials on Adobe Content Supply Chain, the simplified promise of Adobe's solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer.
+source-git-commit: 77982009a37d9d15cbc5e93c7537bc4883789b28
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
-# Adobe內容供應鏈教學課程 {#tutorials}
+# Adobe內容供應鏈Tutorials {#tutorials}
 
-+ [[!DNL Content supply chain] 教學課程](overview.md)
++ [[!DNL Content Supply Chain] 教學課程](overview.md)
 + [工作流程與規劃](workflow-and-planning.md)
 + [內容建立和製作](content-creation-and-production.md)
 + [資產管理](asset-management.md)
